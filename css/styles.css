@@ -30,3 +30,7 @@ h1 {
 h3 {
   color: #112d4e;
 }
+
+td {
+  vertical-align: top;
+}
