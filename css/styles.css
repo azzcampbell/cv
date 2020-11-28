@@ -9,6 +9,10 @@ table {
   margin-right:auto;
 }
 
+td {
+  vertical-align: top;
+}
+
 body {
   background-color: #f9f7f7;
   font-family: "Source Sans Pro";
@@ -18,6 +22,10 @@ body {
 
 a {
   color: #3f72af;
+}
+
+a:hover {
+  color: #dbe2ef;
 }
 
 hr {
@@ -43,8 +51,8 @@ h3 {
   color: #3f72af;
 }
 
-td {
-  vertical-align: top;
+h3:hover {
+  color: #112d4e;
 }
 
 /**********CLASS SELECTORS**********/
