@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
+/**********TAG SELECTORS**********/
+
 body {
   background-color: #f9f7f7;
   font-family: "Source Sans Pro";
@@ -19,9 +21,11 @@ hr {
   width: 20%;
 }
 
+/*
 img {
   height: 150px;
 }
+*/
 
 h1 {
   color: #112d4e;
@@ -33,4 +37,14 @@ h3 {
 
 td {
   vertical-align: top;
+}
+
+/**********CLASS SELECTORS**********/
+
+.linkedin {
+  height: 50px;
+}
+
+.profilepic {
+  height: 150px;
 }
