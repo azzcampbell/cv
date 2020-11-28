@@ -65,8 +65,13 @@ td {
   text-align: left;
 }
 
+.centeralign {
+  text-align: center;
+}
+
 /**********ID SELECTORS**********/
 
 #heading {
   color: #112d4e;
+  text-align: center;
 }
